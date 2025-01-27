@@ -11,7 +11,7 @@ I’m a motivated and curious engineering student with a solid foundation in dat
 
 ---
 
-## 💡 **Skills**
+# 💡 **Skills**
 
 ### **Data Science & Analytics**
 - 🔢 **Data Analysis** | **Data Cleaning** | **Data Visualization**  
@@ -32,7 +32,7 @@ I’m a motivated and curious engineering student with a solid foundation in dat
 
 ---
 
-## 🌐 **Get in Touch**
+# 🌐 **Get in Touch**
 
 Feel free to connect with me for collaboration, projects, or any opportunities!  
 - 📧 **Email**: ryan.belaib@gmail.com  
