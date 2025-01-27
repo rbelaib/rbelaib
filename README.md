@@ -1,5 +1,6 @@
 # Ryan Belaib
 📍 **Data Science & AI Engineering Student**  
+
 🎓 Currently pursuing a degree in **Computer Science Engineering** at **Télécom Physique Strasbourg**, specializing in **Data Science** and **Artificial Intelligence**.  
 ---
 
